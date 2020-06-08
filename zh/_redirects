@@ -1,11 +1,11 @@
 # Netlify redirects. See https://www.netlify.com/docs/redirects/
 
-/about-hugo/                       	/hugoDocs/zh/about/
-/docs/                             	/hugoDocs/zh/about/
-/content/                          	/hugoDocs/zh/content-management/
-/content/organization              	/hugoDocs/zh/content-management/
-/templates/overview/               	/hugoDocs/zh/templates/
-/templates/content                 	/hugoDocs/zh/templates/
-/templates/blocks/                 	/hugoDocs/zh/templates/base/
-/templates/base-templates-and-blocks/	/hugoDocs/zh/templates/base/
-/release-notes/                    	/hugoDocs/zh/news/
+/about-hugo/                       	/zh/about/
+/docs/                             	/zh/about/
+/content/                          	/zh/content-management/
+/content/organization              	/zh/content-management/
+/templates/overview/               	/zh/templates/
+/templates/content                 	/zh/templates/
+/templates/blocks/                 	/zh/templates/base/
+/templates/base-templates-and-blocks/	/zh/templates/base/
+/release-notes/                    	/zh/news/
