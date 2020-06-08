@@ -27,4 +27,4 @@ jobs:
         with:
           github_token: ${{ secrets.GithubBotToken }}
           publish_dir: ./public
-          cname: airdb-wiki.github.io
+          #cname: airdb-wiki.github.io
